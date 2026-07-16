@@ -1,133 +1,136 @@
-# Hi, I'm Ibrahim Alsaqqaf 👋
+<h1 align="center">Hi 👋, I'm Ibrahim Alsaqqaf</h1>
+
+<h3 align="center">
+Software Engineer • Systems Architect • Magento 2 Extension Developer • Flutter & Laravel Developer
+</h3>
 
 <p align="center">
-Software Engineer • Systems Architect • Flutter Developer • Laravel Developer
+Building scalable enterprise systems, e-commerce platforms, ERP solutions, and mobile applications.
 </p>
 
 <p align="center">
-Building scalable business systems, mobile applications, ERP solutions and enterprise integrations.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=700&lines=Software+Engineer;Flutter+Developer;Laravel+Developer;Magento+2+Extension+Developer;ERPNext+Customization;REST+%26+GraphQL+API+Integration;Linux+Server+Administration"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a Software Engineer with more than **8 years of experience** designing and developing enterprise systems, mobile applications, backend services, and digital transformation solutions.
+I'm a Software Engineer with **8+ years of experience** building enterprise software, mobile applications, backend services, ERP systems, and e-commerce solutions.
 
-My experience covers the complete software lifecycle:
+I specialize in designing scalable architectures, integrating business systems, and developing custom solutions using modern technologies.
 
-- 📱 Mobile Development
-- 🌐 Backend Development
-- 🏢 ERP Systems
-- 🛒 E-Commerce Platforms
-- ☁ Linux Servers
-- 🔗 API Integration
+---
+
+# 🚀 Core Expertise
+
+- 📱 Flutter Mobile Applications
+- ⚙️ Laravel Backend Development
+- 🛍 Magento 2 Extension Development
+- 🔄 Magento 2 & ERPNext Integration
+- 🏢 ERPNext Customization
+- 🌐 REST & GraphQL APIs
+- ☁ Linux & VPS Administration
 - 🗄 Database Design
-- 🚀 Software Architecture
+- 🧠 Software Architecture
+- 🤖 AI-assisted Development
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Mobile
 
-- Flutter
-- Dart
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Backend
 
-- PHP
-- Laravel
-- REST APIs
-- GraphQL
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+### E-Commerce
+
+![Magento](https://img.shields.io/badge/Magento_2-orange?style=for-the-badge&logo=magento)
+![ERPNext](https://img.shields.io/badge/ERPNext-blue?style=for-the-badge)
 
 ### Database
 
-- MySQL
-- Firebase
-- SQLite
-
-### ERP & E-Commerce
-
-- ERPNext
-- Magento 2
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=sqlite)
 
 ### DevOps
 
-- Ubuntu
-- Linux
-- VPS
-- Cloudflare
-- Git
-
-### Other
-
-- JavaFX
-- IoT
-- Postman
-- Firebase Cloud Messaging
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 💼 What I'm Working On
+# 💼 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🦷 Dental Clinic Management System | Complete clinic management platform |
+| 📱 Hemyati | Healthcare mobile application |
+| 🚰 Whiteat | Water tanker ordering application |
+| 🛒 Magento 2 + ERPNext | Enterprise integration solution |
+| 🏫 School Management System | School ERP |
+| 💊 Pharmacy Management System | Pharmacy desktop system |
+| 💬 Real-time Chat | Flutter + Laravel + Firebase |
+| 🏠 Smart Home IoT | Arduino & IoT automation |
+
+---
+
+# 🌱 Currently Working On
 
 - Enterprise ERP Solutions
 - Flutter Applications
 - Laravel APIs
-- Magento Integrations
+- Magento 2 Custom Modules
 - ERPNext Customization
-- AI Assisted Development
+- AI-powered Development Tools
 
 ---
 
-## ⭐ Featured Projects
-
-🦷 Dental Clinic Management System
-
-📱 Hemyati Mobile App
-
-🚰 Whiteat App
-
-🏫 School Management System
-
-💊 Pharmacy Management System
-
-🛒 Magento 2 + ERPNext Integration
-
-💬 Real-time Chat System
-
-🏠 IoT Smart Home
-
----
-
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaqqaf&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-alsaqqaf&layout=compact"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaqqaf&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-alsaqqaf&layout=compact"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=ibrahim-alsaqqaf"/>
-
 </p>
 
 ---
 
-## 📫 Contact
+# 📊 Contribution Graph
 
-📧 ibrahimww12@gmail.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/ibrahim-alsaqqaf
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-alsaqqaf"/>
+</p>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-alsaqqaf&theme=flat"/>
+</p>
+
+---
+
+# 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/ibrahim-alsaqqaf
+- 📧 Email: ibrahimww12@gmail.com
