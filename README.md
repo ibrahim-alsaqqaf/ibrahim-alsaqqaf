@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Alsaqqaf 👋
 
-<!--
-**ibrahim-alsaqqaf/ibrahim-alsaqqaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 8+ years of experience in developing scalable business systems and mobile applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter
+- Dart
+- PHP
+- Laravel
+- Magento 2
+- ERPNext
+- REST APIs
+- GraphQL
+- MySQL
+- Firebase
+- Ubuntu
+- Linux
+- Git
+- Docker
+
+## 💼 Current Focus
+
+- Enterprise Systems
+- ERPNext Customization
+- Magento 2 Development
+- Flutter Applications
+- Backend APIs
+- AI-assisted Development
+
+## 📫 Contact
+
+- LinkedIn:
+  https://linkedin.com/ibrahim-alsaqqaf
+
+- Email:
+  ibrahimww12@gmail.com
