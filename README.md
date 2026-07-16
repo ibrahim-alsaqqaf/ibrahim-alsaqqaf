@@ -97,39 +97,6 @@ I specialize in designing scalable architectures, integrating business systems, 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahim-alsaqqaf&show_icons=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-alsaqqaf&layout=compact"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ibrahim-alsaqqaf"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-alsaqqaf"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-alsaqqaf&theme=flat"/>
-</p>
-
----
-
 # 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/ibrahim-alsaqqaf
